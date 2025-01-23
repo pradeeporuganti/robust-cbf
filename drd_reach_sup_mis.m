@@ -1,7 +1,7 @@
 function margin = drd_reach_sup_mis(succ_low, succ_up, ulims, dlims, x_hat)
 
 %% Import CasADi
-addpath('C:\Users\Pradeep\Desktop\work\Tools\Casadi')
+%% addpath('')
 import casadi.*
 
 %% Environment params
