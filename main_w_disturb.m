@@ -1,5 +1,3 @@
-%% ACC 2023: Safe control using high-order measurement robust control barrier functions
-% No noise in measurements
 % Author: Pradeep Sharma Oruganti
 clc; close all; clear all;
 
