@@ -4,7 +4,7 @@
 clc; close all; clear all;
 
 %% Import all folders for TIRA
-addpath(genpath('C:\Users\Pradeep\Desktop\work\LCSS_2023\code\ECOS_code\without_disturb\new_lcss'))
+%% addpath(genpath(''))
 
 % TIRA stuff (making things simple)
 global system_choice
